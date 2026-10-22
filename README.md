@@ -114,10 +114,6 @@ npx playwright test --config playwright.demo.config.ts   # record
 
 More in [`writing-demos.md`](skills/demo-video/references/writing-demos.md).
 
-## Battle-tested
-
-Built while shipping [Mubert Cast](https://mubert.com/tools/cast), an AI podcast editor, by a tiny team with no video editor: 30+ demo specs and 14 docs clips since July 2026, re-recorded on every UI change. The same footage feeds TikTok/Reels videos composed in HyperFrames.
-
 ## Docs
 
 - [`SKILL.md`](skills/demo-video/SKILL.md): what an agent reads
