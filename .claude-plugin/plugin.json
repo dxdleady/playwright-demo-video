@@ -1,0 +1,10 @@
+{
+  "name": "demo-video",
+  "description": "Record polished product demo videos of your web app with Playwright: drawn cursor, DOM zoom, coach-mark captions, spotlight, auto-trim, MP4/GIF export, optional music. Demos as code.",
+  "version": "1.0.0",
+  "author": { "name": "Mariia Kren", "url": "https://github.com/dxdleady" },
+  "homepage": "https://github.com/dxdleady/playwright-demo-video",
+  "repository": "https://github.com/dxdleady/playwright-demo-video",
+  "license": "MIT",
+  "keywords": ["playwright", "demo-video", "product-demo", "screen-recording", "gif", "docs", "agent-skill", "claude-code"]
+}

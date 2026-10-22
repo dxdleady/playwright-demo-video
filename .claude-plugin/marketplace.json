@@ -1,0 +1,15 @@
+{
+  "name": "playwright-demo-video",
+  "description": "Product demo videos as code: record polished Playwright demos of your web app (cursor, zoom, captions, MP4/GIF).",
+  "owner": {
+    "name": "Mariia Kren",
+    "url": "https://github.com/dxdleady"
+  },
+  "plugins": [
+    {
+      "name": "demo-video",
+      "source": "./",
+      "description": "Product demo videos as code: Playwright + cursor, zoom, captions, spotlight, MP4/GIF."
+    }
+  ]
+}
